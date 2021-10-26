@@ -1,0 +1,7 @@
+name: sample_dart
+description: for excercise.
+
+environment:
+  sdk: ">=2.10.0 <3.0.0"
+dependencies: 
+  characters: ^1.2.0
